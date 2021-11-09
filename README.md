@@ -1,7 +1,7 @@
 
 # Emerging Technology 2021
 
-![GitHub Title Emerging Tech](https://github.com/OwenKe11y/Emerging-Technologies-2021/titleGit.PNG?raw=true)
+![GitHub Title Emerging Tech](https://github.com/OwenKe11y/Emerging-Technologies-2021/blob/main/titleGit.PNG?raw=true)
 
 Repository for the Emerging Technologies Module.
 
