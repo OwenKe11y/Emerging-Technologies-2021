@@ -1,0 +1,12 @@
+version: "3.9"
+services:
+  web:
+    build: .
+    ports:
+      - "8888:8888"
+    volumes:
+      - .:/home/jovyan/Documents/College/Fourth Year
+    environment:
+      JUPYTER_ENABLE_LAB: yes
+      GRANT_SUDO: yes
+ 
