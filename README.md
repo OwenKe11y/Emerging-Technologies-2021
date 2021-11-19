@@ -39,6 +39,7 @@ Alternatively, you can view the notebook in dynamic form through the following b
 [![Quantum Computing](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OwenKe11y/Emerging-Technologies-2021/HEAD?labpath=numpy-random.ipynb)
 
 ## Acknowledgements 
+
 ### A markdown cheatsheet used to write the README
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
