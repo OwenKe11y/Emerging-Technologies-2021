@@ -26,17 +26,15 @@ For the <b>50669 -- EMERGING TECHNOLOGIES</b> module, a GitHub repository must b
 ## Repository Content
 This repository contains two comprehensive Jupyter Notebooks as well as all lab content pertaining to the module. It also includes A Dockerfile and a docker-compose.yml file that will enable the quick deployment of these notebooks with minimal configuration.
 
-# Quick Steps
+### Nbviewer and Binder
+You can view these notebooks in static form through the nbviewer badges. Alternatively, you can view the notebook in dynamic form through the binder badges:
 
-You can view these notebooks in static form through the following badges:
 
-[![Scikit-Learn](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/OwenKe11y/Emerging-Technologies-2021/blob/main/project_notebooks/scikit-learn.ipynb)
-[![Quantum Computing](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/OwenKe11y/Emerging-Technologies-2021/blob/main/project_notebooks/quantum-deutsch.ipynb)
 
-Alternatively, you can view the notebook in dynamic form through the following badges:
+| **Scikit-Learn** | [![Scikit-Learn](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/OwenKe11y/Emerging-Technologies-2021/blob/main/project_notebooks/scikit-learn.ipynb) [![Scikit-Learn](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OwenKe11y/Emerging-Technologies-2021/HEAD?labpath=project_notebooks%2Fscikit-learn.ipynb)
+| :------------- |:-------------|
+| **Quantum Computing**           | [![Quantum Computing](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/OwenKe11y/Emerging-Technologies-2021/blob/main/project_notebooks/quantum-deutsch.ipynb) [![Quantum Computing](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OwenKe11y/Emerging-Technologies-2021/HEAD?labpath=project_notebooks%2Fquantum-deutsch.ipynb) |
 
-[![Scikit-Learn](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OwenKe11y/Emerging-Technologies-2021/HEAD?labpath=numpy-random.ipynb)
-[![Quantum Computing](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OwenKe11y/Emerging-Technologies-2021/HEAD?labpath=numpy-random.ipynb)
 
 ## Acknowledgements 
 
