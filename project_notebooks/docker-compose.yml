@@ -7,6 +7,6 @@ services:
     volumes:
       - .:/home/jovyan/Documents/College/Fourth Year
     environment:
-      JUPYTER_ENABLE_LAB: yes
-      GRANT_SUDO: yes
+      JUPYTER_ENABLE_LAB: "yes"
+      GRANT_SUDO: "yes"
  
