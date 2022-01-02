@@ -85,7 +85,7 @@ conda install -c conda-forge jupyterlab
 ```
 jupyter-lab
 ``` 
-   This will open a browser window where the notebooks can be accessed.
+   This will open a browser window where the notebooks can be accessed. NOTE: if there is an ``` Access denied ``` prompt, open your command prompt in administator mode.
    
   </li>
   
